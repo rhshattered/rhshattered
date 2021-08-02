@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm currently working on Graphics programming and Windows Driver Development </br>
+I'm currently learning directx12 and cryptography </br>
+I'm always looking to collaborate on stuff and teach people new things </br>
+Favorite part of c++ is reading and writing process memory </br>
+
+
+Im available on discord Shattered#1337 </br>
