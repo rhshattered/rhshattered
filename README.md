@@ -21,3 +21,6 @@ Favorite part of c++ is reading and writing process memory </br>
 
 
 Im available on discord Shattered#1337 </br>
+
+#Spotify
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=noahjacoblynn&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
