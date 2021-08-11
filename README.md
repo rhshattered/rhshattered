@@ -18,9 +18,7 @@ I'm currently working on Graphics programming and Windows Driver Development </b
 I'm currently learning directx12 and cryptography </br>
 I'm always looking to collaborate on stuff and teach people new things </br>
 Favorite part of c++ is reading and writing process memory </br>
-## Language Stats
-![](https://github.com/ttvtempest17/refactored-umbrella/blob/master/generated/overview.svg)
-![](https://github.com/ttvtempest17/refactored-umbrella/blob/master/generated/languages.svg)
+
 ## Book Reccomends 
 ### Sams Teach Yourself C++</br>
   -Covers basics of C++ with projects</br>
@@ -30,10 +28,17 @@ Favorite part of c++ is reading and writing process memory </br>
 ### Windows Kernel Programming, Pavel Yosifovich</br>
   -Covers how the Windows Kernel works</br>
   -Teaches you how to program Windows Kernel Drivers</br>
+
+## Github Stats
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ttvtempest17)](https://github.com/LordDashMe/github-contribution-stats/)
+
+## Language Stats
+![](https://github.com/ttvtempest17/refactored-umbrella/blob/master/generated/languages.svg)
   
 ## Spotify
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=noahjacoblynn&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile=100x100)
 
-### Contact Me
-Im available on discord Shattered#1337 </br>
+## Contact Me
+Im available on discord 
+### Shattered#1337 </br>
 https://discord.gg/P2yUtK2
