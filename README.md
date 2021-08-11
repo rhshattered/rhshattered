@@ -18,7 +18,9 @@ I'm currently working on Graphics programming and Windows Driver Development </b
 I'm currently learning directx12 and cryptography </br>
 I'm always looking to collaborate on stuff and teach people new things </br>
 Favorite part of c++ is reading and writing process memory </br>
-
+## Github Stats
+![](https://github.com/ttvtempest17/refactored-umbrella/blob/master/generated/overview.svg)
+![](https://github.com/ttvtempest17/refactored-umbrella/blob/master/generated/languages.svg)
 ## Book Reccomends 
 ### Sams Teach Yourself C++</br>
   -Covers basics of C++ with projects</br>
