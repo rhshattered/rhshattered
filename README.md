@@ -37,6 +37,21 @@ Favorite part of c++ is reading and writing process memory </br>
 ## Spotify
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=noahjacoblynn&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile=100x100)
 
+## Portfolio
+-Fully Redesigned https://beyondthelease.com/</br>
+-Any of my repositories</br>
+### Language Experience
+-3-4 years of C/C++</br>
+-1-2 years of Python</br>
+-2-3 years of Html/Css/JavaScript</br>
+### Library Experience
+-GLFW(C/C++) 1-2 years</br>
+-Vulkan(C/C++) 1-2 years</br>
+-Pygame(Python) 1 year</br>
+-Pygame_gui(Python) 5 months</br>
+-Unity(C#) 1 year</br>
+-Ue4(C++) 1 year</br>
+-Wordpress(?) 6 months</br>
 ## Contact Me
 Im available on discord 
 ### Shattered#1337 </br>
