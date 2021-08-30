@@ -1,19 +1,5 @@
 ### Hey fellow Internet person
 
-<!--
-**ttvtempest17/ttvtempest17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 I'm currently working on Graphics programming and Windows Driver Development </br>
 I'm currently learning directx12 and cryptography </br>
 I'm always looking to collaborate on stuff and teach people new things </br>
@@ -39,6 +25,8 @@ Favorite part of c++ is reading and writing process memory </br>
 
 ## Portfolio
 -Fully Redesigned https://beyondthelease.com/</br>
+![image](https://user-images.githubusercontent.com/53288338/131419408-963d686d-c1d5-4060-a8fe-48f6b46bf44f.png)
+
 -Any of my repositories</br>
 ### Language Experience
 -3-4 years of C/C++</br>
