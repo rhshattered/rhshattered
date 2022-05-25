@@ -1,9 +1,7 @@
 ### Hey fellow Internet person
 
 ## Important News
-### Date Edited: 11/11/2021 
-### I got a full time job at a restaurant so i have 0 free time 
-### My response times to questions on discord will be ass apologies in advance 
+### None 
 
 ## About Me
 I'm currently working on Graphics programming and Windows Driver Development </br>
