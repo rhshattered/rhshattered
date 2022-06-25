@@ -20,7 +20,7 @@ Favorite part of c++ is reading and writing process memory </br>
   -Teaches you how to program Windows Kernel Drivers</br>
 
 ## Github Stats
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ttvtempest17)](https://github.com/LordDashMe/github-contribution-stats/)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=rhshattered)](https://github.com/LordDashMe/github-contribution-stats/)
 ## Language Stats
 ![](https://github.com/ttvtempest17/refactored-umbrella/blob/master/generated/languages.svg)
   
