@@ -28,10 +28,7 @@ Favorite part of c++ is reading and writing process memory </br>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=noahjacoblynn&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile=100x100)
 
 ## Portfolio
--Fully Redesigned https://beyondthelease.com/</br>
-![image](https://user-images.githubusercontent.com/53288338/131419408-963d686d-c1d5-4060-a8fe-48f6b46bf44f.png)
-
--Any of my repositories</br>
+-repositories</br>
 ### Language Experience
 -3-4 years of C/C++</br>
 -1-2 years of Python</br>
