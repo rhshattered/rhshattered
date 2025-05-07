@@ -23,9 +23,6 @@ Favorite part of c++ is reading and writing process memory </br>
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=rhshattered)](https://github.com/LordDashMe/github-contribution-stats/)
 ## Language Stats
 ![](https://github.com/ttvtempest17/refactored-umbrella/blob/master/generated/languages.svg)
-  
-## Spotify
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=noahjacoblynn&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile=100x100)
 
 ## Portfolio
 -repositories</br>
